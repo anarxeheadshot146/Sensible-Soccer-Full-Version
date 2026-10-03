@@ -238,4 +238,4 @@ This repository serves as the official landing page for Sensible Soccer. The sof
 **Get the most recent version of Sensible Soccer today!**
 
 ---
-**Last updated:** 2026-10-02 21:09:10 UTC
+**Last updated:** 2026-10-03 00:55:33 UTC
